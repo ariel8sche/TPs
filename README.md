@@ -1,14 +1,14 @@
 # TPs
 Trabajos Prácticos de la facultad
 
-Taller de Algebra
+.Taller de Algebra
 
-Introducción a la Programación
+.Introducción a la Programación
 
-Algoritmos y Estructuras de Datos
+.Algoritmos y Estructuras de Datos
 
-Organizador del Computador
+.Organizador del Computador
 
-Paradigmas de la Programación
+.Paradigmas de la Programación
 
-Técnicas y Diseño de Algoritmos
+.Técnicas y Diseño de Algoritmos
