@@ -9,9 +9,10 @@ Cada carpeta corresponde a una materia y contiene los trabajos prácticos realiz
 - ➗ **Álgebra**  
 - 💻 **Introducción a la Programación**  
 - 🏗️ **Algoritmos y Estructuras de Datos**  
-- 🖥️ **Organización del Computador**  
+- 🖥️ **Arquitectura y Organización del Computador 1**  
 - 🔄 **Paradigmas de la Programación**  
-- 🏆 **Técnicas y Diseño de Algoritmos**  
+- 🏆 **Técnicas y Diseño de Algoritmos**
+- 💿 **Arquitectura y Organizacion del Computador 2**  
 
 ## 🚀 Propósito  
 Este repositorio sirve para organizar y almacenar todos mis **TPs**, facilitando el acceso a los códigos, informes y soluciones.  
